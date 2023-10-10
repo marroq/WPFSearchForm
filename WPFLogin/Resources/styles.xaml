@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="bg-minimize-button" Color="#28AEED"/>
+    <SolidColorBrush x:Key="bg-shadow-minize-button" Color="#278BEF"/>
+    <SolidColorBrush x:Key="bg-close-button" Color="Red"/>
+    <SolidColorBrush x:Key="bg-shadow-close-button" Color="OrangeRed"/>
+    <SolidColorBrush x:Key="bg-action-button" Color="DarkRed"/>
+    <SolidColorBrush x:Key="bg-over-action-button" Color="DarkGreen"/>
+</ResourceDictionary>
